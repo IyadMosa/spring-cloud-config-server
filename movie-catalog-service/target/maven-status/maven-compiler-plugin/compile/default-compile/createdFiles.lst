@@ -1,0 +1,11 @@
+com\moviecatalogservice\configuration\DbSettings.class
+com\moviecatalogservice\models\UserCatalogItem.class
+com\moviecatalogservice\models\UserRating.class
+com\moviecatalogservice\models\Rating.class
+com\moviecatalogservice\resources\PropertiesTesting.class
+com\moviecatalogservice\resources\MovieCatalogResource.class
+com\moviecatalogservice\services\UserRatingInfo.class
+com\moviecatalogservice\MovieCatalogServiceApplication.class
+com\moviecatalogservice\models\Movie.class
+com\moviecatalogservice\models\CatalogItem.class
+com\moviecatalogservice\services\MovieInfo.class

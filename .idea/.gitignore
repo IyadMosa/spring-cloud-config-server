@@ -1,0 +1,15 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+/discovery-server/target/
+/spring-cloud-config-server/target/
+/movie-catalog-service/target/
+/movie-info-service/target/
+/ratings-data-service/target/
+/users-info-service/target/
+/discovery-server/.idea/
+/spring-cloud-config-server/.idea/
+/movie-catalog-service/.idea/
+/movie-info-service/.idea/
+/ratings-data-service/.idea/
+/users-info-service/.idea/

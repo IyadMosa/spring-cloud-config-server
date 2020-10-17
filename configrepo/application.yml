@@ -9,3 +9,6 @@ spring:
     properties:
       hibernate:
         dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+db:
+  iyad:
+    name: iyad aljwareesh
